@@ -43,7 +43,7 @@
 ## 🤝 Let's Connect
 
 - **LinkedIn**: [www.linkedin.com/in/mide-coder](https://www.linkedin.com/in/mide-coder/)
-- **Portfolio**: [[midecoder-portfolio.vercel.app](https://midecoder-portfolio.vercel.app/)](#)
+- **Portfolio**: [midecoder-portfolio.vercel.app](https://midecoder-portfolio.vercel.app/)
 - **Twitter**: [@Midecoder01](https://x.com/Ayomide78268640)
 - **Email**: [midecoder1@gmail..com](mailto:midecoder1@gmail.com)
 
