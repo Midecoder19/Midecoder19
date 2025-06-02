@@ -23,16 +23,6 @@
 - **Tools**: Git, GitHub, Webpack, Postman
 - **Other**: RESTful APIs, MVC Architecture, Authentication & Authorization
 
----
-
-## 🛠️ Projects
-
-- **[Nacos E-Voting Platform](#)**: A secure online voting system built with React.js and Node.js, allowing students to cast votes easily and view real-time results.
-- **[]project Management(#)**: A comprehensive Project managent website  with admin and employer dashboards, developed using Reacjs,Nodejs and Mongodb.
-- **[Code Challenges and Gamification Platform](#)**: A platform that gamifies coding challenges, built with a focus on engaging users in learning and improving their coding skills.
-
----
-
 ## 🌱 What I’m Currently Learning
 
 - **DecentralizedApplications (dApps)**: Exploring blockchain technologies and building decentralized applications.
@@ -43,7 +33,7 @@
 ## 🤝 Let's Connect
 
 - **LinkedIn**: [www.linkedin.com/in/mide-coder](https://www.linkedin.com/in/mide-coder/)
-- **Portfolio**: [midecoder-portfolio.vercel.app](https://midecoder-portfolio.vercel.app/)
+- **Portfolio**: [midecoder-portfolio.vercel.app](https://midecoder-personal.vercel.app/)
 - **Twitter**: [@Midecoder01](https://x.com/Ayomide78268640)
 - **Email**: [midecoder1@gmail..com](mailto:midecoder1@gmail.com)
 
